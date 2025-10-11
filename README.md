@@ -60,3 +60,18 @@ The system detects microplastics using **multi-sensor fusion** — combining dat
 
 ## 📟 Output Display
 - LCD shows:
+- - Optional: Data can be sent to a *smartphone via Bluetooth* for live monitoring.
+
+---
+
+## 🧰 Sensor Placement
+
+| Sensor | Placement | Function |
+|---------|------------|----------|
+| *LED* | Front of container | Shines light through water |
+| *Front LDR* | Opposite LED | Measures transmitted light |
+| *Side LDR* | 90° angle from LED | Measures scattered light |
+| *SW-420* | Under or side of container | Detects movement of microplastics |
+| *TDS Sensor* | Inside water | Reads dissolved solids |
+| *Ultrasonic Sensor (Optional)* | Above water | Detects particle reflection via sound |
+
